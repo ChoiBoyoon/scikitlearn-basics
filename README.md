@@ -7,4 +7,4 @@ Models : **K-nearest neighbors(KNN)** and **Logistic Regression**.
 
 Evaluations metrics : **train/test split** and **K-fold cross validation**.
 
-Plus, in order to search optimal tuning parameters, I used **GridSearchCV**.
+Plus, in order to search optimal tuning parameters, **GridSearchCV** and **RandomizedSearchCV** is used.
