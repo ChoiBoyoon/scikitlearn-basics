@@ -1,5 +1,5 @@
-# Python_Machine_Learning
-Personal machine-learning projects using Python in order to review basic concepts of machine learning.
+# Scikit-Learn basics with Python (Machine Learning)
+> Personal machine-learning projects using Python in order to review basic concepts of machine learning.
 
 ### 1. ML basics_study with iris dataset (classification)_.ipynb
 * This notebook addresses classification problem - with **iris dataset** which is built in scikit-learn package.
