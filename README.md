@@ -7,7 +7,8 @@
 * Evaluations metrics : **train/test split** and **K-fold cross validation**.
 * Plus, in order to search optimal tuning parameters, **GridSearchCV** and **RandomizedSearchCV** is used.
 
-### 2. Pima_Indians_Diabetes.ipynb
-
-* Data source : https://www.kaggle.com/uciml/pima-indians-diabetes-database/code?datasetId=228&sortBy=voteCount
-* This notebook addresses classificaiton problem.
+### 2. Pima_Indians_Diabetes(Classification_Evaluation_Metrics).ipynb
+* Question: **Can we predict the diabetes status** of a patient givne their health measurements?
+* Data source : Kaggle (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* This notebook aims to examine various **classification evaluation metrics** and **ROC Curves and AUC**
+    * ex. confusion matrix, senstivity, precision, etc.
