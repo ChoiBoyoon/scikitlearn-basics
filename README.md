@@ -12,3 +12,10 @@
 * Data source : Kaggle (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 * This notebook aims to examine various **classification evaluation metrics** and **ROC Curves and AUC**
     * ex. confusion matrix, senstivity, precision, etc.
+
+### 3. Pima_Indians_Diabetes(Classification).ipynb
+* Question: **Can we predict the diabetes status** of a patient givne their health measurements?
+* Data source : Kaggle (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* In this notebook, we'll follow text-book approach to classification problem.
+   * 1. exploratory data analysis.
+   * 2. locate and remove outliers.
