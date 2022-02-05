@@ -19,3 +19,4 @@
 * In this notebook, we'll follow text-book approach to classification problem.
    * 1. exploratory data analysis.
    * 2. locate and remove outliers.
+ddd
